@@ -1,6 +1,6 @@
 # Yamlable
 
-[![Build Status](https://travis-ci.org/folkengine/yamlable.svg?branch=master)](https://travis-ci.org/yamlable/random_name_generator)
+[![Build Status](https://travis-ci.org/folkengine/yamlable.svg?branch=master)](https://travis-ci.org/folkengine/yamlable)
 
 Simple Ruby Module that adds to_yaml to any Object that includes it.
 
