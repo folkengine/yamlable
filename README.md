@@ -1,5 +1,7 @@
 # Yamlable
 
+[![Build Status](https://travis-ci.org/folkengine/random_name_generator.svg?branch=master)](https://travis-ci.org/folkengine/random_name_generator)
+
 Simple Ruby Module that adds to_yaml to any Object that includes it.
 
 ## Installation
