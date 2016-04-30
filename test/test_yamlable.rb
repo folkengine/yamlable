@@ -3,6 +3,8 @@ require 'minitest/reporters'
 require 'minitest/unit'
 require 'yamlable'
 
+Minitest::Reporters.use!
+
 class Example
   include Yamlable
 
